@@ -1,0 +1,9 @@
+[submodule "6Sem2025Server"]
+	path = 6Sem2025Server
+	url = https://github.com/iNineBD/6Sem2025Server
+[submodule "6Sem2025Front"]
+	path = 6Sem2025Front
+	url = https://github.com/iNineBD/6Sem2025Front
+[submodule "6Sem2025IA"]
+	path = 6Sem2025IA
+	url = https://github.com/iNineBD/6Sem2025IA
