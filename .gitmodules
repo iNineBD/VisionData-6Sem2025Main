@@ -7,3 +7,6 @@
 [submodule "6Sem2025IA"]
 	path = 6Sem2025IA
 	url = https://github.com/iNineBD/6Sem2025IA
+[submodule "6Sem2025ETL"]
+	path = 6Sem2025ETL
+	url = https://github.com/iNineBD/6Sem2025ETL
