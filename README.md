@@ -65,4 +65,12 @@
 
 </div>
 
+## ✅ Sprint Backlog
+
+Our Sprint Backlog is managed in Jira, where the team can view and assign tasks to each member. Click the icon to access.
+
+[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://scrum-inine.atlassian.net/jira/software/projects/API/boards/2?atlOrigin=eyJpIjoiNzU5NTliNjJiZjBlNDhkYmJjMDNkMjBlZGNkZDU1NDEiLCJwIjoiaiJ9)
+
+
+
 <br>
