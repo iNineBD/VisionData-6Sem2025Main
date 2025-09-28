@@ -30,6 +30,14 @@
 | 11   | As a user, I want to log in securely, ensuring the protection of my data and the system.                                                                                                                    | LOW      | 3      |        |
 | 12   | As a user, I want to have access to a user manual for the system, to facilitate my learning and consultation in case of questions.                                                                          | LOW      | 3      |        |
 
+
+## ✅ Sprint Backlog
+
+Our Sprint Backlog is managed in Jira, where the team can view and assign tasks to each member. Click the icon to access.
+
+[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://scrum-inine.atlassian.net/jira/software/projects/API/boards/2?atlOrigin=eyJpIjoiNzU5NTliNjJiZjBlNDhkYmJjMDNkMjBlZGNkZDU1NDEiLCJwIjoiaiJ9)
+
+
 ## 📋 Functional Requirements
 
 | **ID**  | **Functional Requirement**                       | **Detailed Description**                                                                                                                                                                                                 |
@@ -63,14 +71,16 @@
   | Developer | Eduardo Farias | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardofariasp/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/eduardofpaula) | <img src="https://avatars.githubusercontent.com/u/117841950?v=4" width="60"> |
   | Developer | João Matheus | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaomatheuslamao/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/iNineBD/people/JoaoMatheusLamao) | <img src="https://avatars.githubusercontent.com/u/77554165?v=4" width="60"> |
 
+## 🛠️ Technologies
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 </div>
-
-## ✅ Sprint Backlog
-
-Our Sprint Backlog is managed in Jira, where the team can view and assign tasks to each member. Click the icon to access.
-
-[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://scrum-inine.atlassian.net/jira/software/projects/API/boards/2?atlOrigin=eyJpIjoiNzU5NTliNjJiZjBlNDhkYmJjMDNkMjBlZGNkZDU1NDEiLCJwIjoiaiJ9)
-
-
 
 <br>
