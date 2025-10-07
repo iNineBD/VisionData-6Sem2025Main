@@ -83,4 +83,10 @@ Our Sprint Backlog is managed in Jira, where the team can view and assign tasks 
 
 </div>
 
+## 📃 Guidelines
+We leave all the guidelines for the development of our system in another tool, Jira has an interesting integration with the atlessan confluence tool, and has good work synchronization, so we leave our development rules here internally, be they branch rules, commit rules and other standards for good development.
+click on the link below to read:
+
+[![Confluence](https://img.shields.io/badge/confluence-%230A0FFF.svg?style=for-the-badge&logo=confluence&logoColor=white)](https://scrum-inine.atlassian.net/wiki/x/AYBn)
+</div>
 <br>
