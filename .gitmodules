@@ -1,12 +1,16 @@
 [submodule "6Sem2025Server"]
 	path = 6Sem2025Server
 	url = https://github.com/iNineBD/6Sem2025Server
+	branch = main
 [submodule "6Sem2025Front"]
 	path = 6Sem2025Front
 	url = https://github.com/iNineBD/6Sem2025Front
+	branch = main
 [submodule "6Sem2025ML"]
 	path = 6Sem2025ML
 	url = https://github.com/iNineBD/VisionData-6Sem2025ML
+	branch = main
 [submodule "6Sem2025ETL"]
 	path = 6Sem2025ETL
 	url = https://github.com/iNineBD/6Sem2025ETL
+	branch = main
