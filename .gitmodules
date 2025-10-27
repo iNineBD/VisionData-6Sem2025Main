@@ -4,9 +4,9 @@
 [submodule "6Sem2025Front"]
 	path = 6Sem2025Front
 	url = https://github.com/iNineBD/6Sem2025Front
-[submodule "6Sem2025IA"]
-	path = 6Sem2025IA
-	url = https://github.com/iNineBD/6Sem2025IA
+[submodule "6Sem2025ML"]
+	path = 6Sem2025ML
+	url = https://github.com/iNineBD/VisionData-6Sem2025ML
 [submodule "6Sem2025ETL"]
 	path = 6Sem2025ETL
 	url = https://github.com/iNineBD/6Sem2025ETL
