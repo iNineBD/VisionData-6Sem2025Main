@@ -33,9 +33,13 @@
 
 ## ✅ Sprint Backlog
 
-Our Sprint Backlog is managed in Jira, where the team can view and assign tasks to each member. Click the icon to access.
+You can check our sprint backlog and see how our sprints went by following ou wiki! you can check them by the links below:
 
-[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://scrum-inine.atlassian.net/jira/software/projects/API/boards/2?atlOrigin=eyJpIjoiNzU5NTliNjJiZjBlNDhkYmJjMDNkMjBlZGNkZDU1NDEiLCJwIjoiaiJ9)
+| Wikis |
+|--------|
+| <a href = 'https://github.com/iNineBD/VisionData-6Sem2025Main/wiki/Sprint-1' target='blank'><img alt="Static Badge" src="https://img.shields.io/badge/sprint-1-darkblue"> </a>|
+| <a href = 'https://github.com/iNineBD/VisionData-6Sem2025Main/wiki/Sprint-2' target='blank'> <img alt="Static Badge" src="https://img.shields.io/badge/sprint-2-darkblue"> </a>|
+| <a href = 'https://github.com/iNineBD/VisionData-6Sem2025Main/wiki/Sprint-3' target='blank'> <img alt="Static Badge" src="https://img.shields.io/badge/sprint-3-darkblue"> </a>|
 
 
 ## 📋 Functional Requirements
