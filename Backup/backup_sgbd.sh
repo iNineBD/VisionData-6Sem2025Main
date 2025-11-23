@@ -5,9 +5,9 @@ set -e # Para se der erro
 # A PASTA DE BACKUP NA *VM DO SQL SERVER*
 BACKUP_PATH_REMOTO="/var/opt/mssql/backups"
 
-SQL_HOST="visiondata.ininetech.com.br"
-SQL_USER="dev"
-SQL_PASS="Inine*123"
+SQL_HOST="*****"
+SQL_USER="*****"
+SQL_PASS="*****"
 # ---------------------
 
 CMD="/opt/mssql-tools18/bin/sqlcmd -S $SQL_HOST -U $SQL_USER -P $SQL_PASS -b -N -C"
