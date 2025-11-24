@@ -33,13 +33,17 @@
 
 ## ✅ Sprint Backlog
 
-You can check our sprint backlog and see how our sprints went by following ou wiki! you can check them by the links below:
+You can check our sprint backlog and see how our sprints went by the attached file or wiki! you can check them by the links below:
+
+ATTACHED FILE ON LINK: 
+[Relatório de tasks - Sprints.xlsx](https://github.com/user-attachments/files/23733359/Relatorio.de.tasks.-.Sprints.xlsx)
 
 | Wikis |
 |--------|
 | <a href = 'https://github.com/iNineBD/VisionData-6Sem2025Main/wiki/Sprint-1' target='blank'><img alt="Static Badge" src="https://img.shields.io/badge/sprint-1-darkblue"> </a>|
 | <a href = 'https://github.com/iNineBD/VisionData-6Sem2025Main/wiki/Sprint-2' target='blank'> <img alt="Static Badge" src="https://img.shields.io/badge/sprint-2-darkblue"> </a>|
 | <a href = 'https://github.com/iNineBD/VisionData-6Sem2025Main/wiki/Sprint-3' target='blank'> <img alt="Static Badge" src="https://img.shields.io/badge/sprint-3-darkblue"> </a>|
+
 
 
 ## 📋 Functional Requirements
